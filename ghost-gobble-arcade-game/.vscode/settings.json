@@ -1,0 +1,5 @@
+{
+    "python.testing.pytestArgs": ["ghost-gobble-arcade-game"],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
