@@ -1,4 +1,4 @@
-# Determine the resistor value based on the given color
+# Determining the resistor value based on the given color
 
 colorCodes = {
     'black': 0,
