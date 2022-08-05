@@ -44,3 +44,4 @@ class Luhn:
             return total % 10 == 0
         else:
             return False
+        
